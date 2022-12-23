@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="player">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/player/LoginValidationPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/player/RequestOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/player/FollowOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/player/AttackOptionPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

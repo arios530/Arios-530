@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="holiday">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/holiday/DeathMansionEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/holiday/BasketofEggsEvent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

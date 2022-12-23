@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FluffNPC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/gertrudes_cat/FluffNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

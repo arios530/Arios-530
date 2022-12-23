@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="withobject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/BurnMeatPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/CauldronOfThunder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/EctophialFillPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/SmithingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/TutorialItemHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/RestlessGhostSkull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/KaramajaBananaCrate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/SwampHoleRopePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/WaterSourcePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/GWDEntranceRopeUsage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/SandSourcePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/IncubatorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/PriestInPerilUsePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/PoisonFountainPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withobject/SapCollectPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="clan wars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/clan wars/ClanWarsActivityPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/clan wars/ClanWarsChallengeRoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

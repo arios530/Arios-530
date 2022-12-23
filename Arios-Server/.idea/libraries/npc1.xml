@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="npc1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/CowNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/GoblinVillageNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/LumberKittenNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/StrayDogNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/CitizenNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/MetalDragonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ThrowerTrollNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/FishingNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/RatNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ArmourSuitNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/SkippyNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/KamfreenaNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/RevenantPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/GiantMoleNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/AntonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/SheepNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/GuardNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/JogreNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/BennyNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ShanomiNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/MonkNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/TutorialChickenNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/AlKharidWarriorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/CatableponNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/GraveStoneNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/DarkWizardNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/DraynorTreeNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/RatTutorialNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/TribesmanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/BorkNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/LumbridgeInstructorNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/BarbarianNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ChromaticDragonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ShopNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/WerewolfNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/HansNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ChaosElementalNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/KingBlackDragonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/DuckNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/HighwayManNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/VampireSlayerNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/ElementalWizardNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/RockCrabNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/KalphiteQueenNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

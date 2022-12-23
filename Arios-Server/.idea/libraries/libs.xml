@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/libs/mysql-connector-java-5.1.30-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/mail-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/slf4j-simple-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/data/libs/zt-zip-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="magic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/EnchantCrossbowSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/ChargeOrbSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/TeleotherSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/ModernTeleportPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/SuperheatSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/ChargeSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/TeleblockSpell.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

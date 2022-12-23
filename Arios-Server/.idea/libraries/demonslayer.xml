@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="demonslayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/demonslayer/DemonSlayerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/demonslayer/DemonSlayerCutscene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/demonslayer/WallyCutscenePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/demonslayer/DSlayerDrainPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

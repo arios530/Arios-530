@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="dragon_slayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/MazeGhostNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/MazeDemonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/MeldarMadNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/WormbrainNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/DSNedNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/MazeSkeletonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/ZombieRatNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/MazeZombieNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/dragon_slayer/ElvargNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

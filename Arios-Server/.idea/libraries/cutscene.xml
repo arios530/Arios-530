@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cutscene">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/OrganCutScene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/DBRCutscenePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/DragonSlayerCutscene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/JulietCutscenePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/RJCutscenePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/cutscene/GECutscenePlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="brimhaven">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/brimhaven/BrimhavenArena.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/brimhaven/BrimhavenCourse.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

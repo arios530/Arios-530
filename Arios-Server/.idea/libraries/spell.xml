@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="spell">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/SonicWaveSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/MiasmicSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/IceSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/SmokeSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/CrumbleUndead.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/AirSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/BindSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/IbanBlast.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/EarthSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/WaterSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/CurseSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/FireSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/BloodSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/ShadowSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/GodSpells.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/spell/MagicDart.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

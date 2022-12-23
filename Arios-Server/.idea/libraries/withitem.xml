@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="withitem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/PoisonRemovePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/SeasonedSardinePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/LightSourcePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/FruitCuttingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/SkullSceptrePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/FirelighterPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/WaterSkinPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/ImpJarCreatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/AmuletStringingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/CapeDyeingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/GodswordHiltAttachPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/GraniteSplittingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/CrystalKeyCreatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/SoftclayPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/ChestKeyPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/MakeGlassInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/KaramjanSilkPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/FishfoodPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withitem/PoisonWeaponPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

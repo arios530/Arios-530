@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RovingElvesPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/rovingelves/RovingElvesPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="crafting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/GemCutPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/StuddedArmourPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/WeaveOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/SnakeSkinPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/JewelleryCraftPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/PotteryPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/StitchCraftPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/SnelmCraftPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/MoltenGlassMakePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/SilverStringingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/crafting/BattlestaveMakePlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

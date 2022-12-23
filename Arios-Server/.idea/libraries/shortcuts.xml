@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="shortcuts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/RockClimbShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/FenceJumpShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/StrangeFloorShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/BarSqueezeShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/MonkeyBarShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/TunnelShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/ZanarisSqueezeShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/StileShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/AlKharidPitShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/CrumblingWallShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/LogBalanceShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/SteppingStoneShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/shortcuts/PipeShortcut.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

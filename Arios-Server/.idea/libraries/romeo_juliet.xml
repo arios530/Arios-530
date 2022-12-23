@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="romeo_juliet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/romeo_juliet/RomeoNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/romeo_juliet/JulietNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

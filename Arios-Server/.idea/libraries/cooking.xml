@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="cooking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/MakeDoughPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/PieShellPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/CakeMakingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/NettleWaterPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/CookingDialoguePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/CoconutMakePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/WineFermentPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/SkeweredFoodPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/MakeStewPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/WatermelonSlicePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/FireOptionPotteryPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/NettleTeaPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/CookingRecipePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/cooking/CookingPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

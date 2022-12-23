@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="thieving">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/thieving/ThievingOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/thieving/ThievableChestPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

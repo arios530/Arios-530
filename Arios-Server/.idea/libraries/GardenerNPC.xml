@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GardenerNPC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/pirates_treasure/GardenerNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

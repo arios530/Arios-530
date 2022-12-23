@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="object">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/PyreSitePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/LadderManagingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BrassKeyDoorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SearchOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/CavadaBerriesPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/KalphiteEntranceHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ChampionsArenaPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SlashWebPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/CulinomancerChestPliugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ThievingGuidePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/FishingContestGatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ChefGuildDoorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SilverCastingInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ModeratorObject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/WydinDoorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/WildernessLeverPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GertrudeCatPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/LavaMazePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/CrystalChestPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/JangerBerryPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GnomeSpiritTreePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/HaystackPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ProspectOrePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/KhardianInteractionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/FairyRingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BuyCrateOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GardenObjectsPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/DummyAttackPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/CowMilkingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BankingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BankUnnotePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/DoorManagingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/FaladorGrapplePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GrandExchangeShortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ReadSignPostPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/MoyrtniaSwampPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SeersCageUnlockPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/CanoeOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GrandExchangePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/FlourMakingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/MossGiantRopePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/FieldPickingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ChampionsGuildDoor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SpinSpinningWheelPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BarrowsBoatPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/WildernessDitchPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/LumbridgeSwampHolePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/MuseumGatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ShantayPassPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/RestlessGhostPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/RomeoQuestPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/LumberYardCratePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/PriestInPerilOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/WitchsPotionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/WildernessObeliskPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/DoogleLeafPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/SlayerDangerSignPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/PortsObjectPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/ErnestTheChickenPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/GuidorDoorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/DwarfMultiCannonPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/TollGateOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/RedberryBushPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/VampireSlayerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/object/BarrowsTunnelShortcut.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

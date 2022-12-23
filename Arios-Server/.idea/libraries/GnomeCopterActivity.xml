@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GnomeCopterActivity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/gnomecopter/GnomeCopterActivity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

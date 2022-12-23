@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lunar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/DreamSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/PlankMeSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/CureMeSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/FertileSoilSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/CureGroupSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/BakePieSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/HunterKitSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/StatSpySpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/StatBoostSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/EnergyTransferSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/SpellbookSwapSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/StatRestoreSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/NPContactSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/HealSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/SuperglassMakeSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/StringJewellerySpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/VengeanceSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/MonsterExamineSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/CureOtherSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/MagicImbueSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/LunarTeleportPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/CurePlantSpell.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/magic/lunar/HumidifySpell.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

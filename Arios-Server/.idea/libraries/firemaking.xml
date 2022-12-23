@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firemaking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/firemaking/FireMakingOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/firemaking/LightLogPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

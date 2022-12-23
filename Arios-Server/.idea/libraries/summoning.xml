@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="summoning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/FamiliarNPCOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/FamiliarFeedPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/FamiliarItemOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/SummoningTabPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/ObeliskOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/BurdenInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/RemoteViewDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/SummonFamiliarPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/SummoningCreationPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/summoning/SummoningTrainingRoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

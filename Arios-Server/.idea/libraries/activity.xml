@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="activity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/StrongHoldSecurityPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/BountyHunterActivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/MageArenaPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/PuroPuroPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/PyramidPlunderActivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/PartyRoomPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/BarrowsActivityPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

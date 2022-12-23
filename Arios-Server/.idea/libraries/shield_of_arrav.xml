@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shield of arrav">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/shield of arrav/ShieldArravPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/shield of arrav/CertificatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/shield of arrav/JohnnyBeardNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="withplayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withplayer/FieldRationUsage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withplayer/ChristmasCrackerUsage.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

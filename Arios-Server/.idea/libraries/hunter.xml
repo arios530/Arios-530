@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hunter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/hunter/ImpBoxPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/hunter/HunterPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

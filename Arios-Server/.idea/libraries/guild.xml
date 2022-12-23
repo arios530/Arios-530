@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="guild">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/WizardGuildPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/RangingGuildPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/MiningGuildPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/FishingGuild.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/HeroGuildPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/guild/CraftingGuildPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

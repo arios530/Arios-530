@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WLBelowPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/wlbelow/WLBelowPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

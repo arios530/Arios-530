@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="agility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/BarbarianOutpostCourse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/WildernessCourse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/GnomeStrongholdCourse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/agility/AgilityPyramidCourse.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

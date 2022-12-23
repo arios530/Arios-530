@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="book">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/dialogue/book/SecurityBookPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/dialogue/book/GrimDiary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/dialogue/book/AriosRuleBook.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/dialogue/book/ShieldofArravBook.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/dialogue/book/StrongholdNotes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

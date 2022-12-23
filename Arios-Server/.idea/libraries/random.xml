@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="random">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/random/CapnHandEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/TreeSpiritEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/RiverTrollEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/DrunkDwarfEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/GenieRandomEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/RickTurpentineEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/MysteryBoxPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/ZombieEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/QuizMasterEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/EvilChickenRandomEvent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/random/ShadeEvent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

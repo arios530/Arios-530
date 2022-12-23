@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LostCityPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/lostcity/LostCityPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

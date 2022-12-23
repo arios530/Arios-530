@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TreasureTrailPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/ttrail/TreasureTrailPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

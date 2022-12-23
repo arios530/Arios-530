@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72a1ef4e-ee7b-43c6-9a82-7503168636ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eco/grand_exchange_db.emp" beforeDir="false" afterPath="$PROJECT_DIR$/data/eco/grand_exchange_db.emp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/players/test.arios" beforeDir="false" afterPath="$PROJECT_DIR$/data/players/test.arios" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="80ebb67a-a878-4e39-ba96-01ff6a9ea518" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1i4eOwXt3GHUY8ZlqyCyRzOD0aF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientLoader" />
+      <module name="Arios-Client" />
+      <option name="PROGRAM_PARAMETERS" value="1 live english game0" />
+      <option name="VM_PARAMETERS" value="--add-exports java.desktop/sun.awt=ALL-UNNAMED -XX:-OmitStackTraceInFastThrow -Dsun.java2d.uiScale=1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Management Server" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.arios.Main" />
+      <module name="Arios-Management-Server" />
+      <option name="VM_PARAMETERS" value="-XX:-OmitStackTraceInFastThrow -XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.arios.Server" />
+      <module name="Arios-Server" />
+      <option name="VM_PARAMETERS" value="-XX:-OmitStackTraceInFastThrow -XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Management Server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a1ef4e-ee7b-43c6-9a82-7503168636ad" name="Default Changelist" comment="" />
+      <created>1544198988134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544198988134</updated>
+      <workItem from="1544199002763" duration="5963000" />
+      <workItem from="1544205771675" duration="8945000" />
+      <workItem from="1544293968191" duration="847000" />
+      <workItem from="1544457696058" duration="124000" />
+      <workItem from="1544457834688" duration="2925000" />
+      <workItem from="1544488763933" duration="439000" />
+      <workItem from="1601171264449" duration="517000" />
+      <workItem from="1601172119324" duration="2345000" />
+      <workItem from="1601174515924" duration="42000" />
+      <workItem from="1601174755072" duration="583000" />
+      <workItem from="1601177236354" duration="1062000" />
+      <workItem from="1601221218529" duration="1892000" />
+      <workItem from="1601223831135" duration="617000" />
+      <workItem from="1601257022511" duration="165000" />
+      <workItem from="1601257256945" duration="238000" />
+      <workItem from="1601257518750" duration="32000" />
+      <workItem from="1601257602027" duration="1357000" />
+      <workItem from="1601400674391" duration="686000" />
+      <workItem from="1601511217922" duration="9716000" />
+      <workItem from="1601522462852" duration="813000" />
+      <workItem from="1601566494616" duration="11076000" />
+      <workItem from="1601585714201" duration="667000" />
+      <workItem from="1671503126725" duration="60000" />
+      <workItem from="1671503197572" duration="428000" />
+      <workItem from="1671507599126" duration="448000" />
+      <workItem from="1671558321630" duration="71000" />
+      <workItem from="1671571284772" duration="5862000" />
+      <workItem from="1671577481029" duration="6976000" />
+      <workItem from="1671584607023" duration="876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

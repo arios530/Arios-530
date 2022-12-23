@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="consumable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/BeerDrinkPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/PotionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/CupofTeaPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

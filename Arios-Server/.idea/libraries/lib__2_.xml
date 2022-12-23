@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Arios-Management-Server/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Arios-Management-Server/lib" recursive="false" />
+  </library>
+</component>

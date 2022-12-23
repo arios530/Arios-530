@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DuelArenaActivity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/duel/DuelArenaActivity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aliresque">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/aliresque/PrinceAliRescuePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/aliresque/WigDyePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/aliresque/LadyKeliDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/aliresque/LadyKeliNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="familiar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/ThornySnailNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritSpiderNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritScorpionNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/CompostMoundNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/BunyipNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/LavaTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/HoneyBadgerNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/HydraNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/GraniteLobsterNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritJellyNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/CockatriceFamiliarNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/BullAntNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritLarupiaNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/DesertWyrmNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/AbyssalLurkerNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/TalonBeastNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/MacawNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/IbisNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SteelTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/FireTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritTerrorbirdNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/WolpertingerNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/PackYakNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/BeaverNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/GeyserTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/ObsidianGolemNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/PrayingMantisNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/IceTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/MossTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritMosquitoNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/IronTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/AbyssalTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritWolfNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/BarkerToadNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/ArcticBearNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/BloatedLeechNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritCobraNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/GraniteCrabNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/VampireBatNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/UnicornStallionNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/StrangerPlantNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SwampTitanNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritGraahkNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/PyreLordNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritKalphiteNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritKyattNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/AlbinoRatNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritTzKihNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/DreadfowlNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SmokeDevilNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/VoidFamiliarNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/MinotaurFamiliarNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/KaramthulhuOverlordNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/WarTortoiseNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/AbyssalParasiteNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/FruitBatNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/RavenousLocustNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/GiantEntNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/GiantChinchompaNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/SpiritDagannothNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/ForgeRegentNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/MagpieNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/familiar/EvilTurnipNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

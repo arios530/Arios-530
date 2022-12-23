@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HuntForSurokPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/mini/surok/HuntForSurokPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="inter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/GliderInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/DeathInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/EllisDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/PuppyInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/PrayerTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SkillInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/LeatherCraftInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/ShipCharterInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/GameInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/RequestAssistInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/LoginInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/OrbViewingInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/BankPinInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/MakeOverInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/CanoeInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/TradeInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SkillTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/ExperienceLampInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SmithingInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/ShoppingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SettingTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/TanningInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SawmillPlankInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/ClanInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/EmoteTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/MagicBookInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/EquipmentInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/MusicTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SilverInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/ThessaliaInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/CombatTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SmeltingInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/WorldMapInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/QuestTabInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/GlassInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/AgilityTicketInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/GravePurchaseInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/FurClothingInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/CharacterDesignInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/HairInterfacePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/JewelleryInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/LeatherCraftPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/LogoutInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/SpinningInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/BoltEnchantingInterface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/AutocastSelectPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/inter/GrandExchangeInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

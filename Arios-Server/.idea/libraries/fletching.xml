@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="fletching">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/BoltCreatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/FletchingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/GemBoltPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/MithGrapplePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/DartCreatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/MakeCrossbowPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/StringbowPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/ArrowCreatePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/fletching/BoltGemPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

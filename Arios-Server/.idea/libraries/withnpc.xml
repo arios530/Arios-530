@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="withnpc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withnpc/LadyKeliRopePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withnpc/NeedleCowPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withnpc/StrayDogBonesPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/withnpc/GertrudeCatUsePlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

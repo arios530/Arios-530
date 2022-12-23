@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="city">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/BrimhavenDungeonPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/KhardianDesertPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/DraynorManorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/FaladorNodePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/TaverlyDungeonPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/WildernessPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/ZanarisPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/MonasteryPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/KaramajaOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/VarrockNodePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/HamHideoutPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/PortSarimPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/CamelotNodePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/TzhaarCityPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/GnomeStrongholdPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/ShiloVillagePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/BurthorpePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/WizardTowerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/LunarIslePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/TrollheimPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/EntranaObjectPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/DraynorNodePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/BedabinPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/LumbridgeNodePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/city/EdgevilleNodePlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

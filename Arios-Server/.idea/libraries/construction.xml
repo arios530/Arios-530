@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="construction">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/construction/BuildOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/construction/BuildRoomDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/construction/PortalOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/construction/ConstructionInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

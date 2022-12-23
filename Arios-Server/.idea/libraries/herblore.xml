@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="herblore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/UnfinishedPotionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/HerbCleanPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/PotionDecantingPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/GrindItemPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/HerbTarPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/BarbarianMixPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/herblore/FinishedPotionPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

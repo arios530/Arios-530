@@ -1,0 +1,1354 @@
+itemId: 667
+renderEmote 292
+
+itemId: 767
+renderEmote 175
+
+itemId: 772
+renderEmote 28
+
+itemId: 837
+renderEmote 175
+
+itemId: 839
+renderEmote 176
+
+itemId: 841
+renderEmote 176
+
+itemId: 1237
+renderEmote 28
+
+itemId: 1239
+renderEmote 28
+
+itemId: 1241
+renderEmote 28
+
+itemId: 1243
+renderEmote 28
+
+itemId: 1245
+renderEmote 28
+
+itemId: 1247
+renderEmote 28
+
+itemId: 1249
+renderEmote 28
+
+itemId: 1251
+renderEmote 28
+
+itemId: 1253
+renderEmote 28
+
+itemId: 1255
+renderEmote 28
+
+itemId: 1257
+renderEmote 28
+
+itemId: 1259
+renderEmote 28
+
+itemId: 1261
+renderEmote 28
+
+itemId: 1263
+renderEmote 28
+
+itemId: 1277
+renderEmote 1381
+
+itemId: 1279
+renderEmote 1381
+
+itemId: 1281
+renderEmote 1381
+
+itemId: 1283
+renderEmote 1381
+
+itemId: 1285
+renderEmote 1381
+
+itemId: 1287
+renderEmote 1381
+
+itemId: 1289
+renderEmote 1381
+
+itemId: 1291
+renderEmote 1381
+
+itemId: 1293
+renderEmote 1381
+
+itemId: 1295
+renderEmote 1381
+
+itemId: 1297
+renderEmote 1381
+
+itemId: 1299
+renderEmote 1381
+
+itemId: 1301
+renderEmote 1381
+
+itemId: 1303
+renderEmote 1381
+
+itemId: 1305
+renderEmote 1381
+
+itemId: 1307
+renderEmote 124
+
+itemId: 1309
+renderEmote 124
+
+itemId: 1311
+renderEmote 124
+
+itemId: 1313
+renderEmote 124
+
+itemId: 1315
+renderEmote 124
+
+itemId: 1317
+renderEmote 124
+
+itemId: 1319
+renderEmote 124
+
+itemId: 1321
+renderEmote 1381
+
+itemId: 1323
+renderEmote 1381
+
+itemId: 1325
+renderEmote 1381
+
+itemId: 1327
+renderEmote 1381
+
+itemId: 1329
+renderEmote 1381
+
+itemId: 1331
+renderEmote 1381
+
+itemId: 1333
+renderEmote 1381
+
+itemId: 1335
+renderEmote 1430
+
+itemId: 1337
+renderEmote 1430
+
+itemId: 1339
+renderEmote 1430
+
+itemId: 1341
+renderEmote 1430
+
+itemId: 1343
+renderEmote 1430
+
+itemId: 1345
+renderEmote 1430
+
+itemId: 1347
+renderEmote 1430
+
+itemId: 1379
+renderEmote 28
+
+itemId: 1381
+renderEmote 28
+
+itemId: 1383
+renderEmote 28
+
+itemId: 1385
+renderEmote 28
+
+itemId: 1387
+renderEmote 1272
+
+itemId: 1389
+renderEmote 28
+
+itemId: 1391
+renderEmote 28
+
+itemId: 1393
+renderEmote 28
+
+itemId: 1395
+renderEmote 28
+
+itemId: 1397
+renderEmote 28
+
+itemId: 1399
+renderEmote 28
+
+itemId: 1401
+renderEmote 28
+
+itemId: 1403
+renderEmote 28
+
+itemId: 1405
+renderEmote 28
+
+itemId: 1407
+renderEmote 28
+
+itemId: 1409
+renderEmote 28
+
+itemId: 1419
+renderEmote 1271
+
+itemId: 3053
+renderEmote 28
+
+itemId: 3054
+renderEmote 28
+
+itemId: 3170
+renderEmote 28
+
+itemId: 3171
+renderEmote 28
+
+itemId: 3172
+renderEmote 28
+
+itemId: 3173
+renderEmote 28
+
+itemId: 3174
+renderEmote 28
+
+itemId: 3175
+renderEmote 28
+
+itemId: 3176
+renderEmote 28
+
+itemId: 3190
+renderEmote 28
+
+itemId: 3192
+renderEmote 28
+
+itemId: 3194
+renderEmote 28
+
+itemId: 3196
+renderEmote 28
+
+itemId: 3198
+renderEmote 28
+
+itemId: 3200
+renderEmote 28
+
+itemId: 3202
+renderEmote 28
+
+itemId: 3204
+renderEmote 28
+
+itemId: 3695
+renderEmote 792
+
+itemId: 4037
+renderEmote 131
+
+itemId: 4039
+renderEmote 131
+
+itemId: 4084
+renderEmote 1119
+
+itemId: 4151
+renderEmote 620
+
+itemId: 4153
+renderEmote 27
+
+itemId: 4158
+renderEmote 28
+
+itemId: 4159
+renderEmote 28
+
+itemId: 4170
+renderEmote 28
+
+itemId: 4580
+renderEmote 28
+
+itemId: 4582
+renderEmote 28
+
+itemId: 4584
+renderEmote 28
+
+itemId: 4587
+renderEmote 1381
+
+itemId: 4675
+renderEmote 28
+
+itemId: 4710
+renderEmote 28
+
+itemId: 4718
+renderEmote 124
+
+itemId: 4726
+renderEmote 28
+
+itemId: 4734
+renderEmote 372
+
+itemId: 4755
+renderEmote 373
+
+itemId: 4862
+renderEmote 28
+
+itemId: 4863
+renderEmote 28
+
+itemId: 4864
+renderEmote 28
+
+itemId: 4865
+renderEmote 28
+
+itemId: 4866
+renderEmote 28
+
+itemId: 4886
+renderEmote 124
+
+itemId: 4887
+renderEmote 124
+
+itemId: 4888
+renderEmote 124
+
+itemId: 4889
+renderEmote 124
+
+itemId: 4890
+renderEmote 124
+
+itemId: 4910
+renderEmote 28
+
+itemId: 4911
+renderEmote 28
+
+itemId: 4912
+renderEmote 28
+
+itemId: 4913
+renderEmote 28
+
+itemId: 4914
+renderEmote 28
+
+itemId: 4934
+renderEmote 372
+
+itemId: 4935
+renderEmote 372
+
+itemId: 4936
+renderEmote 372
+
+itemId: 4937
+renderEmote 372
+
+itemId: 4938
+renderEmote 372
+
+itemId: 4982
+renderEmote 373
+
+itemId: 4983
+renderEmote 373
+
+itemId: 4984
+renderEmote 373
+
+itemId: 4985
+renderEmote 373
+
+itemId: 4986
+renderEmote 373
+
+itemId: 5016
+renderEmote 28
+
+itemId: 5614
+renderEmote 191
+
+itemId: 5704
+renderEmote 28
+
+itemId: 5706
+renderEmote 28
+
+itemId: 5708
+renderEmote 28
+
+itemId: 5710
+renderEmote 28
+
+itemId: 5712
+renderEmote 28
+
+itemId: 5714
+renderEmote 28
+
+itemId: 5716
+renderEmote 28
+
+itemId: 5718
+renderEmote 28
+
+itemId: 5720
+renderEmote 28
+
+itemId: 5722
+renderEmote 28
+
+itemId: 5724
+renderEmote 28
+
+itemId: 5726
+renderEmote 28
+
+itemId: 5728
+renderEmote 28
+
+itemId: 5730
+renderEmote 28
+
+itemId: 5734
+renderEmote 28
+
+itemId: 5736
+renderEmote 28
+
+itemId: 6082
+renderEmote 284
+
+itemId: 6526
+renderEmote 28
+
+itemId: 6528
+renderEmote 27
+
+itemId: 6562
+renderEmote 28
+
+itemId: 6563
+renderEmote 28
+
+itemId: 6599
+renderEmote 28
+
+itemId: 6603
+renderEmote 28
+
+itemId: 6605
+renderEmote 1381
+
+itemId: 6607
+renderEmote 1381
+
+itemId: 6609
+renderEmote 124
+
+itemId: 6611
+renderEmote 1381
+
+itemId: 6562
+renderEmote 28
+
+itemId: 6563
+renderEmote 28
+
+itemId: 6760
+renderEmote 28
+
+itemId: 6762
+renderEmote 28
+
+itemId: 6764
+renderEmote 28
+
+itemId: 6773
+renderEmote 131
+
+itemId: 6774
+renderEmote 131
+
+itemId: 6775
+renderEmote 131
+
+itemId: 6776
+renderEmote 131
+
+itemId: 6777
+renderEmote 131
+
+itemId: 6778
+renderEmote 131
+
+itemId: 6779
+renderEmote 131
+
+itemId: 6817
+renderEmote 124
+
+itemId: 6818
+renderEmote 28
+
+itemId: 6908
+renderEmote 28
+
+itemId: 6910
+renderEmote 28
+
+itemId: 6912
+renderEmote 28
+
+itemId: 6914
+renderEmote 28
+
+itemId: 7158
+renderEmote 124
+
+itemId: 7170
+renderEmote 234
+
+itemId: 7158
+renderEmote 124
+
+itemId: 7421
+renderEmote 618
+
+itemId: 7422
+renderEmote 618
+
+itemId: 7423
+renderEmote 618
+
+itemId: 7424
+renderEmote 618
+
+itemId: 7425
+renderEmote 618
+
+itemId: 7426
+renderEmote 618
+
+itemId: 7427
+renderEmote 618
+
+itemId: 7428
+renderEmote 618
+
+itemId: 7429
+renderEmote 618
+
+itemId: 7430
+renderEmote 618
+
+itemId: 7431
+renderEmote 618
+
+itemId: 7439
+renderEmote 124
+
+itemId: 7449
+renderEmote 134
+
+itemId: 7639
+renderEmote 28
+
+itemId: 7640
+renderEmote 28
+
+itemId: 7641
+renderEmote 28
+
+itemId: 7642
+renderEmote 28
+
+itemId: 7643
+renderEmote 28
+
+itemId: 7644
+renderEmote 28
+
+itemId: 7645
+renderEmote 28
+
+itemId: 7646
+renderEmote 28
+
+itemId: 7647
+renderEmote 28
+
+itemId: 7648
+renderEmote 28
+
+itemId: 7668
+renderEmote 27
+
+itemId: 7671
+renderEmote 1386
+
+itemId: 7673
+renderEmote 1386
+
+itemId: 7804
+renderEmote 28
+
+itemId: 7809
+renderEmote 28
+
+itemId: 8650
+renderEmote 131
+
+itemId: 8652
+renderEmote 131
+
+itemId: 8654
+renderEmote 131
+
+itemId: 8656
+renderEmote 131
+
+itemId: 8658
+renderEmote 131
+
+itemId: 8660
+renderEmote 131
+
+itemId: 8662
+renderEmote 131
+
+itemId: 8664
+renderEmote 131
+
+itemId: 8666
+renderEmote 131
+
+itemId: 8668
+renderEmote 131
+
+itemId: 8670
+renderEmote 131
+
+itemId: 8672
+renderEmote 131
+
+itemId: 8674
+renderEmote 131
+
+itemId: 8676
+renderEmote 131
+
+itemId: 8678
+renderEmote 131
+
+itemId: 8680
+renderEmote 131
+
+itemId: 8871
+renderEmote 822
+
+itemId: 8880
+renderEmote 175
+
+itemId: 8966
+renderEmote 131
+
+itemId: 8967
+renderEmote 131
+
+itemId: 8968
+renderEmote 131
+
+itemId: 8969
+renderEmote 131
+
+itemId: 8970
+renderEmote 131
+
+itemId: 8971
+renderEmote 131
+
+itemId: 9013
+renderEmote 28
+
+itemId: 9044
+renderEmote 28
+
+itemId: 9046
+renderEmote 28
+
+itemId: 9048
+renderEmote 28
+
+itemId: 9050
+renderEmote 28
+
+itemId: 9084
+renderEmote 28
+
+itemId: 9091
+renderEmote 28
+
+itemId: 9092
+renderEmote 28
+
+itemId: 9093
+renderEmote 28
+
+itemId: 9174
+renderEmote 175
+
+itemId: 9176
+renderEmote 175
+
+itemId: 9177
+renderEmote 175
+
+itemId: 9179
+renderEmote 175
+
+itemId: 9181
+renderEmote 175
+
+itemId: 9183
+renderEmote 175
+
+itemId: 9185
+renderEmote 175
+
+itemId: 10010
+renderEmote 28
+
+itemId: 10024
+renderEmote 1283
+
+itemId: 10033
+renderEmote 234
+
+itemId: 10034
+renderEmote 234
+
+itemId: 10146
+renderEmote 1277
+
+itemId: 10147
+renderEmote 1277
+
+itemId: 10148
+renderEmote 1277
+
+itemId: 10149
+renderEmote 1277
+
+itemId: 10150
+renderEmote 1279
+
+itemId: 10156
+renderEmote 175
+
+itemId: 10280
+renderEmote 28
+
+itemId: 10282
+renderEmote 28
+
+itemId: 10284
+renderEmote 28
+
+itemId: 10440
+renderEmote 28
+
+itemId: 10442
+renderEmote 28
+
+itemId: 10444
+renderEmote 28
+
+itemId: 10487
+renderEmote 1171
+
+itemId: 10735
+renderEmote 1383
+
+itemId: 10858
+renderEmote 124
+
+itemId: 10887
+renderEmote 985
+
+itemId: 11165
+renderEmote 175
+
+itemId: 11167
+renderEmote 175
+
+itemId: 11235
+renderEmote 303
+
+itemId: 11259
+renderEmote 158
+
+itemId: 11367
+renderEmote 28
+
+itemId: 11369
+renderEmote 28
+
+itemId: 11371
+renderEmote 28
+
+itemId: 11373
+renderEmote 28
+
+itemId: 11375
+renderEmote 28
+
+itemId: 11377
+renderEmote 28
+
+itemId: 11379
+renderEmote 28
+
+itemId: 11381
+renderEmote 28
+
+itemId: 11382
+renderEmote 28
+
+itemId: 11384
+renderEmote 28
+
+itemId: 11386
+renderEmote 28
+
+itemId: 11388
+renderEmote 28
+
+itemId: 11389
+renderEmote 28
+
+itemId: 11391
+renderEmote 28
+
+itemId: 11393
+renderEmote 28
+
+itemId: 11395
+renderEmote 28
+
+itemId: 11396
+renderEmote 28
+
+itemId: 11398
+renderEmote 28
+
+itemId: 11400
+renderEmote 28
+
+itemId: 11402
+renderEmote 28
+
+itemId: 11403
+renderEmote 28
+
+itemId: 11405
+renderEmote 28
+
+itemId: 11407
+renderEmote 28
+
+itemId: 11409
+renderEmote 28
+
+itemId: 11410
+renderEmote 28
+
+itemId: 11412
+renderEmote 28
+
+itemId: 11414
+renderEmote 28
+
+itemId: 11416
+renderEmote 28
+
+itemId: 11417
+renderEmote 28
+
+itemId: 11419
+renderEmote 28
+
+itemId: 11694
+renderEmote 124
+
+itemId: 11696
+renderEmote 124
+
+itemId: 11698
+renderEmote 124
+
+itemId: 11700
+renderEmote 124
+
+itemId: 11716
+renderEmote 1581
+
+itemId: 11730
+renderEmote 124
+
+itemId: 11736
+renderEmote 28
+
+itemId: 11738
+renderEmote 28
+
+itemId: 11998
+renderEmote 159
+
+itemId: 12570
+renderEmote 1157
+
+itemId: 12578
+renderEmote 294
+
+itemId: 12579
+renderEmote 294
+
+itemId: 12580
+renderEmote 294
+
+itemId: 12844
+renderEmote 593
+
+itemId: 12845
+renderEmote 370
+
+itemId: 12846
+renderEmote 370
+
+itemId: 12847
+renderEmote 370
+
+itemId: 12848
+renderEmote 370
+
+itemId: 12849
+renderEmote 370
+
+itemId: 13081
+renderEmote 175
+
+itemId: 13117
+renderEmote 712
+
+itemId: 13118
+renderEmote 712
+
+itemId: 13119
+renderEmote 712
+
+itemId: 13120
+renderEmote 712
+
+itemId: 13121
+renderEmote 712
+
+itemId: 13122
+renderEmote 712
+
+itemId: 13123
+renderEmote 712
+
+itemId: 13124
+renderEmote 712
+
+itemId: 13125
+renderEmote 712
+
+itemId: 13126
+renderEmote 712
+
+itemId: 13127
+renderEmote 712
+
+itemId: 13128
+renderEmote 712
+
+itemId: 13129
+renderEmote 712
+
+itemId: 13130
+renderEmote 712
+
+itemId: 13131
+renderEmote 712
+
+itemId: 13132
+renderEmote 712
+
+itemId: 13133
+renderEmote 712
+
+itemId: 13134
+renderEmote 712
+
+itemId: 13135
+renderEmote 712
+
+itemId: 13136
+renderEmote 712
+
+itemId: 13137
+renderEmote 712
+
+itemId: 13138
+renderEmote 712
+
+itemId: 13139
+renderEmote 712
+
+itemId: 13140
+renderEmote 712
+
+itemId: 13141
+renderEmote 712
+
+itemId: 13142
+renderEmote 712
+
+itemId: 13143
+renderEmote 712
+
+itemId: 13144
+renderEmote 712
+
+itemId: 13145
+renderEmote 712
+[ENDOFLIST]
+itemId: 13146
+renderEmote 712
+
+itemId: 11235
+renderEmote 303
+
+itemId: 4675
+renderEmote 28
+
+itemId: 7158
+renderEmote 124
+
+itemId: 4151
+renderEmote 620
+
+itemId: 4153
+renderEmote 27
+
+itemId: 11694
+renderEmote 124
+
+itemId: 11696
+renderEmote 124
+
+itemId: 11698
+renderEmote 124
+
+itemId: 11700
+renderEmote 124
+
+itemId: 11716
+renderEmote 1581
+
+itemId: 11730
+renderEmote 124
+
+itemId: 1347
+renderEmote 1430
+
+itemId: 1303
+renderEmote 1381
+
+itemId: 1305
+renderEmote 1381
+
+itemId: 1333
+renderEmote 1381
+
+itemId: 4587
+renderEmote 1381
+
+itemId: 3204
+renderEmote 28
+
+itemId: 9185
+renderEmote 175
+
+itemId: 10280
+renderEmote 28
+
+itemId: 10282
+renderEmote 28
+
+itemId: 10284
+renderEmote 28
+
+itemId: 13629
+renderEmote 28
+
+itemId: 13630
+renderEmote 28
+
+itemId: 13631
+renderEmote 28
+
+itemId: 13632
+renderEmote 28
+
+itemId: 13633
+renderEmote 28
+
+itemId: 13634
+renderEmote 28
+
+itemId: 13635
+renderEmote 28
+
+itemId: 13636
+renderEmote 28
+
+itemId: 13637
+renderEmote 28
+
+itemId: 13638
+renderEmote 28
+
+itemId: 13639
+renderEmote 28
+
+itemId: 13640
+renderEmote 28
+
+itemId: 13641
+renderEmote 28
+
+itemId: 13642
+renderEmote 28
+
+itemId: 13643
+renderEmote 28
+
+itemId: 13644
+renderEmote 28
+
+itemId: 13645
+renderEmote 28
+
+itemId: 13646
+renderEmote 28
+
+itemId: 13647
+renderEmote 28
+
+itemId: 13648
+renderEmote 28
+
+itemId: 13661
+renderEmote 1096
+
+itemId: 13666
+renderEmote 326
+
+itemId: 13671
+renderEmote 327
+
+itemId: 13676
+renderEmote 328
+
+itemId: 13719
+renderEmote 176
+
+itemId: 1247
+renderEmote 28
+
+itemId: 1249
+renderEmote 28
+
+itemId: 1261
+renderEmote 28
+
+itemId: 1263
+renderEmote 28
+
+itemId: 5714
+renderEmote 28
+
+itemId: 5716
+renderEmote 28
+
+itemId: 5728
+renderEmote 28
+
+itemId: 5730
+renderEmote 28
+
+itemId: 1289
+renderEmote 1381
+
+itemId: 1319
+renderEmote 124
+
+itemId: 3202
+renderEmote 28
+
+itemId: 13867
+renderEmote 28
+
+itemId: 13869
+renderEmote 28
+
+itemId: 13879
+renderEmote 1381
+
+itemId: 13880
+renderEmote 1381
+
+itemId: 13881
+renderEmote 1381
+
+itemId: 13882
+renderEmote 1381
+
+itemId: 13905
+renderEmote 28
+
+itemId: 13907
+renderEmote 28
+
+itemId: 13929
+renderEmote 28
+
+itemId: 13931
+renderEmote 28
+
+itemId: 13941
+renderEmote 28
+
+itemId: 13943
+renderEmote 28
+
+itemId: 13979
+renderEmote 1381
+
+itemId: 13981
+renderEmote 1381
+
+itemId: 13982
+renderEmote 1381
+
+itemId: 13984
+renderEmote 1381
+
+itemId: 13988
+renderEmote 28
+
+itemId: 13990
+renderEmote 28
+
+itemId: 14057
+renderEmote 1072
+
+itemId: 14102
+renderEmote 158
+
+itemId: 14110
+renderEmote 158
+
+itemId: 14117
+renderEmote 28
+
+itemId: 14152
+renderEmote 158
+
+itemId: 14154
+renderEmote 158
+
+itemId: 14156
+renderEmote 158
+
+itemId: 14158
+renderEmote 158
+
+itemId: 14160
+renderEmote 158
+
+itemId: 14377
+renderEmote 28
+
+itemId: 14379
+renderEmote 28
+
+itemId: 14381
+renderEmote 28
+
+itemId: 14383
+renderEmote 28
+
+itemId: 14385
+renderEmote 28
+
+itemId: 14679
+renderEmote 1481
+
+itemId: 14712
+renderEmote 398
+
+itemId: 14713
+renderEmote 182
+
+itemId: 14725
+renderEmote 28
+
+itemId: 14728
+renderEmote 415
+
+itemId: 15241
+renderEmote 1603
+
+[ENDOFLIST]

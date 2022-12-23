@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tzhaar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/tzhaar/TzhaarFightCavesPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/tzhaar/TzhaarFightPitsPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

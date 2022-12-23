@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="zone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/zone/IcePathZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/GrandExchangeZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/CrandorZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/PhasmatysZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/TzhaarZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/WaterBirthIslandZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/RellekkaZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/ChaosTunnelZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/YanilleAgilityDungeon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/LightHousePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/DesertZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/zone/NeitiznotZone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

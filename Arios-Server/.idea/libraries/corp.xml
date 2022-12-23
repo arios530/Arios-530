@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="corp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/corp/CorporealBeastNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/corp/DarkEnergyCoreNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

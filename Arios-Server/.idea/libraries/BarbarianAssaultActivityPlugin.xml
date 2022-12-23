@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BarbarianAssaultActivityPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/barbassault/BarbarianAssaultActivityPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

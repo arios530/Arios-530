@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="farming">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/farming/GardenerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/farming/ToolLeprachaunPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/farming/FarmHolderPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/farming/FarmingPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

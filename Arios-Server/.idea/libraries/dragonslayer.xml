@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dragonslayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/dragonslayer/DragonSlayerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/dragonslayer/CrandorMapPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/quest/dragonslayer/DSMagicDoorPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

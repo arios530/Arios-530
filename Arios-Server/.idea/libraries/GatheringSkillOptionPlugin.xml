@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GatheringSkillOptionPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/gather/GatheringSkillOptionPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

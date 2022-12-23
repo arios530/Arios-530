@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="item">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/GodswordDismantlePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/TeleTabsOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/Elementals.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/BirdNestPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/ToyHorsePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/TeleportCrystalPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/ConsumableOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/LampPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/RottenPotatoPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/BookreadOption.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/GnomecopterTicket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/MorphItemPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/DustHandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/DragonfireShieldPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/BraceletOfClayPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/NewComerMapPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/ExtinguishLightPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/SpadeDigOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/SilverSicklePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/EnchantedJewelleryPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/GnomeCopterPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/SkullSceptreOption.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/SkullDropPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/EmptyOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/CasketPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/DiangoItemPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/OysterPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/NewsPaperPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/QuestCapePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/PickupPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/item/GodBookPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

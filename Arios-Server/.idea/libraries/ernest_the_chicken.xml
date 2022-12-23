@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ernest_the_chicken">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/ernest_the_chicken/ErnestChickenNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/ernest_the_chicken/ErnestNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

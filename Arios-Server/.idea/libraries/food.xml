@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="food">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/RockCakePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/BreadPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/SkeweredFood.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/BowlFoodPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/KebabFoodPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/CakePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/PizzaPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/MeatPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/PurpleSweetsPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/WatermelonPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/PiePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/DraynorCabbagePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/consumable/food/ShrimpsPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

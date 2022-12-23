@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="slayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/KuraskNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/BrutalDragonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/AbyssalDemonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/SlayerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/FishingExplosivePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/BansheeNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/RockSlugPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/TurothNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/DesertLizardPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/AberrantSpectreNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/DustDevilNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/CockatriceNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/SkeletalWyvernNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/BasiliskNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/BuglanternPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/GargoyleNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/SlayerTowerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/EnchantedGemDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/SlayerMasterDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/SlayerTowerZone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/BugSwarmNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/NechryaelNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/InfernalMageNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/MithrilDragonNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/WaterFiendNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

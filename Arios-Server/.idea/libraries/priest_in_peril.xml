@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="priest_in_peril">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/priest_in_peril/TempleGuardianNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/npc/quest/priest_in_peril/MonkOfZamorakNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

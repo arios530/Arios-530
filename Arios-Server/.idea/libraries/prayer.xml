@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="prayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/prayer/BoneBuryingOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/prayer/PrayerAltarPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

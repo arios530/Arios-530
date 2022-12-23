@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FurnaceOptionPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/smithing/FurnaceOptionPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

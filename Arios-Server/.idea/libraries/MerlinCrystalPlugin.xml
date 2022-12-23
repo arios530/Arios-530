@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MerlinCrystalPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/merlincrystal/MerlinCrystalPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

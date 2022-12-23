@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MageTrainingArenaPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/mta/MageTrainingArenaPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

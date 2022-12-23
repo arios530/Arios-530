@@ -1,0 +1,2079 @@
+<map>
+<!-- Training arrows -->
+	<Ammunition>
+		<itemId>9706</itemId>
+		<startGraphicsId>806</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>806</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">805</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bronze arrows -->
+	<Ammunition>
+		<itemId>882</itemId>
+		<startGraphicsId>19</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1104</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">10</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>883</itemId>
+		<startGraphicsId>19</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1104</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">10</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5616</itemId>
+		<startGraphicsId>19</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1104</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">10</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5622</itemId>
+		<startGraphicsId>19</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1104</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">10</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>598</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Iron arrows -->
+	<Ammunition>
+		<itemId>884</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1105</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>885</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1105</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5617</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1105</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5623</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1105</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>2532</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Steel arrows -->
+	<Ammunition>
+		<itemId>886</itemId>
+		<startGraphicsId>20</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1106</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">11</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>887</itemId>
+		<startGraphicsId>20</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1106</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">11</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5618</itemId>
+		<startGraphicsId>20</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1106</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">11</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5624</itemId>
+		<startGraphicsId>20</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1106</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">11</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>2534</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Mithril arrows -->
+	<Ammunition>
+		<itemId>888</itemId>
+		<startGraphicsId>21</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1107</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">12</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>889</itemId>
+		<startGraphicsId>21</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1107</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">12</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5619</itemId>
+		<startGraphicsId>21</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1107</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">12</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5625</itemId>
+		<startGraphicsId>21</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1107</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">12</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>2536</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Adamant arrows -->
+	<Ammunition>
+		<itemId>890</itemId>
+		<startGraphicsId>22</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1108</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">13</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>891</itemId>
+		<startGraphicsId>22</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1108</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">13</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5620</itemId>
+		<startGraphicsId>22</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1108</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">13</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5626</itemId>
+		<startGraphicsId>22</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1108</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">13</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>2538</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Rune arrows -->
+	<Ammunition>
+		<itemId>892</itemId>
+		<startGraphicsId>24</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1109</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">15</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>893</itemId>
+		<startGraphicsId>24</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1109</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">15</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5621</itemId>
+		<startGraphicsId>24</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1109</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">15</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5627</itemId>
+		<startGraphicsId>24</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1109</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">15</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>2540</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Broad arrows -->
+	<Ammunition>
+		<itemId>4160</itemId>
+		<startGraphicsId>325</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1112</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">326</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Dragon arrows -->
+	<Ammunition>
+		<itemId>11212</itemId>
+		<startGraphicsId>1116</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1114</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">1120</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11227</itemId>
+		<startGraphicsId>1116</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1114</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">1120</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11228</itemId>
+		<startGraphicsId>1116</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1114</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">1120</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11229</itemId>
+		<startGraphicsId>1116</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1114</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">1120</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11217</itemId>
+		<startGraphicsId>26</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1113</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">17</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Ice arrows -->
+	<Ammunition>
+		<itemId>78</itemId>
+		<startGraphicsId>25</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>1110</darkBowGraphicsId>
+		<darkBowGraphicsHeight>96</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">25</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Saradomin arrows -->
+	<Ammunition>
+		<itemId>19152</itemId>
+		<startGraphicsId>96</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">99</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Guthix arrows -->
+	<Ammunition>
+		<itemId>19157</itemId>
+		<startGraphicsId>95</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">98</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Zamorak arrows -->
+	<Ammunition>
+		<itemId>19162</itemId>
+		<startGraphicsId>97</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">100</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Ogre arrow -->
+	<Ammunition>
+		<itemId>2866</itemId>
+		<startGraphicsId>243</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">242</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bronze brutal -->
+	<Ammunition>
+		<itemId>5621</itemId>
+		<startGraphicsId>19</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">10</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Iron brutal -->
+	<Ammunition>
+		<itemId>4778</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Steel brutal -->
+	<Ammunition>
+		<itemId>4783</itemId>
+		<startGraphicsId>20</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">11</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Black brutal -->
+	<Ammunition>
+		<itemId>4788</itemId>
+		<startGraphicsId>18</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">9</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Mithril brutal -->
+	<Ammunition>
+		<itemId>4793</itemId>
+		<startGraphicsId>21</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">12</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Adamant brutal -->
+	<Ammunition>
+		<itemId>4798</itemId>
+		<startGraphicsId>22</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">13</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Rune brutal -->
+	<Ammunition>
+		<itemId>4803</itemId>
+		<startGraphicsId>24</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="41" angle="5" base_speed="46">15</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Zaryte bow -->
+	<Ammunition>
+		<itemId>20171</itemId>
+		<startGraphicsId>2962</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">1066</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>20173</itemId>
+		<startGraphicsId>2962</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">1066</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>20174</itemId>
+		<startGraphicsId>2962</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">1066</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Crystal bow -->
+	<Ammunition>
+		<itemId>4212</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4214</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4215</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4216</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4217</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4218</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4219</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4220</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4221</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4222</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>4223</itemId>
+		<startGraphicsId>250</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">249</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bronze & Opal tipped bolts -->
+	<Ammunition>
+		<itemId>877</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>878</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>879</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>6061</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>6062</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9236</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Iron & Pearl tipped bolts -->
+	<Ammunition>
+		<itemId>9140</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9287</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>880</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9294</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9301</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9238</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Blurite & Jade tipped bolts -->
+	<Ammunition>
+		<itemId>9139</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9286</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9293</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9300</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9335</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9237</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Steel & Topaz tipped bolts -->
+	<Ammunition>
+		<itemId>9141</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9288</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9295</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9302</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9336</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9239</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Black tipped bolts -->
+	<Ammunition>
+		<itemId>13083</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13084</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13085</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13086</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Mithril, Sapphire tipped & Emerald tipped bolts -->
+	<Ammunition>
+		<itemId>9142</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9289</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9296</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9303</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9337</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9240</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9338</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9241</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Adamantite, Ruby tipped & Diamond tipped bolts -->
+	<Ammunition>
+		<itemId>9143</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9290</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9297</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9304</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9339</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9242</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9340</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9243</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Runite, Dragon tipped & Onyx tipped bolts -->
+	<Ammunition>
+		<itemId>9144</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9291</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9298</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9305</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9341</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9244</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9342</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>9245</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bolt rack -->
+	<Ammunition>
+		<itemId>4740</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Kebbit bolts -->
+	<Ammunition>
+		<itemId>10158</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Long kebbit bolts -->
+	<Ammunition>
+		<itemId>10159</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bone bolts -->
+	<Ammunition>
+		<itemId>8882</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="38" type="41" angle="5" base_speed="32">27</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bronze knife -->
+	<Ammunition>
+		<itemId>864</itemId>
+		<startGraphicsId>219</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">212</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>870</itemId>
+		<startGraphicsId>219</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">212</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5654</itemId>
+		<startGraphicsId>219</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">212</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5661</itemId>
+		<startGraphicsId>219</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">212</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Iron knife -->
+	<Ammunition>
+		<itemId>863</itemId>
+		<startGraphicsId>220</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">213</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>871</itemId>
+		<startGraphicsId>220</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">213</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5655</itemId>
+		<startGraphicsId>220</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">213</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5662</itemId>
+		<startGraphicsId>220</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">213</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Steel knife -->
+	<Ammunition>
+		<itemId>865</itemId>
+		<startGraphicsId>221</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">214</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>872</itemId>
+		<startGraphicsId>221</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">214</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5656</itemId>
+		<startGraphicsId>221</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">214</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5663</itemId>
+		<startGraphicsId>221</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">214</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Black knife -->
+	<Ammunition>
+		<itemId>869</itemId>
+		<startGraphicsId>222</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">215</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>874</itemId>
+		<startGraphicsId>222</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">215</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5658</itemId>
+		<startGraphicsId>222</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">215</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5665</itemId>
+		<startGraphicsId>222</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">215</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Mithril knife -->
+	<Ammunition>
+		<itemId>866</itemId>
+		<startGraphicsId>223</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">216</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>873</itemId>
+		<startGraphicsId>223</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">216</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5657</itemId>
+		<startGraphicsId>223</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">216</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5664</itemId>
+		<startGraphicsId>223</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">216</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Adamant knife -->
+	<Ammunition>
+		<itemId>867</itemId>
+		<startGraphicsId>224</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">217</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>875</itemId>
+		<startGraphicsId>224</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">217</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5659</itemId>
+		<startGraphicsId>224</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">217</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5666</itemId>
+		<startGraphicsId>224</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">217</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Rune knife -->
+	<Ammunition>
+		<itemId>868</itemId>
+		<startGraphicsId>225</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">218</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>876</itemId>
+		<startGraphicsId>225</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">218</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5660</itemId>
+		<startGraphicsId>225</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">218</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5667</itemId>
+		<startGraphicsId>225</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">218</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Bronze dart -->
+	<Ammunition>
+		<itemId>806</itemId>
+		<startGraphicsId>232</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">226</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>812</itemId>
+		<startGraphicsId>232</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">226</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5628</itemId>
+		<startGraphicsId>232</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">226</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5635</itemId>
+		<startGraphicsId>232</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">226</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Iron dart -->
+	<Ammunition>
+		<itemId>807</itemId>
+		<startGraphicsId>233</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>813</itemId>
+		<startGraphicsId>233</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5629</itemId>
+		<startGraphicsId>233</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5636</itemId>
+		<startGraphicsId>233</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Black dart -->
+	<Ammunition>
+		<itemId>3093</itemId>
+		<startGraphicsId>273</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>3094</itemId>
+		<startGraphicsId>273</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5631</itemId>
+		<startGraphicsId>273</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5638</itemId>
+		<startGraphicsId>273</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">227</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Steel dart -->
+	<Ammunition>
+		<itemId>808</itemId>
+		<startGraphicsId>234</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">228</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>814</itemId>
+		<startGraphicsId>234</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">228</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5630</itemId>
+		<startGraphicsId>234</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">228</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5637</itemId>
+		<startGraphicsId>234</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">228</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Mithril dart -->
+	<Ammunition>
+		<itemId>809</itemId>
+		<startGraphicsId>235</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">229</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>815</itemId>
+		<startGraphicsId>235</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">229</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5630</itemId>
+		<startGraphicsId>235</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">229</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5639</itemId>
+		<startGraphicsId>235</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">229</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Adamant dart -->
+	<Ammunition>
+		<itemId>810</itemId>
+		<startGraphicsId>236</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">230</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>816</itemId>
+		<startGraphicsId>236</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">230</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5633</itemId>
+		<startGraphicsId>236</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">230</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5640</itemId>
+		<startGraphicsId>236</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">230</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Rune dart -->
+	<Ammunition>
+		<itemId>811</itemId>
+		<startGraphicsId>237</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">231</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>817</itemId>
+		<startGraphicsId>237</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">231</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5634</itemId>
+		<startGraphicsId>237</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">231</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5641</itemId>
+		<startGraphicsId>237</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">231</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Dragon dart -->
+	<Ammunition>
+		<itemId>11230</itemId>
+		<startGraphicsId>1123</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1122</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11231</itemId>
+		<startGraphicsId>1123</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1122</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11233</itemId>
+		<startGraphicsId>1123</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1122</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>11234</itemId>
+		<startGraphicsId>1123</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1122</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Toktz-xil-ul -->
+	<Ammunition>
+		<itemId>6522</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">442</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Bronze thrownaxe -->
+	<Ammunition>
+		<itemId>800</itemId>
+		<startGraphicsId>43</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">36</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Iron thrownaxe -->
+	<Ammunition>
+		<itemId>801</itemId>
+		<startGraphicsId>42</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">35</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Steel thrownaxe -->
+	<Ammunition>
+		<itemId>802</itemId>
+		<startGraphicsId>44</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">37</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Mithril thrownaxe -->
+	<Ammunition>
+		<itemId>803</itemId>
+		<startGraphicsId>45</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">38</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Adamant thrownaxe -->
+	<Ammunition>
+		<itemId>804</itemId>
+		<startGraphicsId>46</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">39</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Rune thrownaxe -->
+	<Ammunition>
+		<itemId>805</itemId>
+		<startGraphicsId>48</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">41</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Morrigan's throwing axe -->
+	<Ammunition>
+		<itemId>13883</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1839</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Corrupt Morrigan's throwing axe -->
+	<Ammunition>
+		<itemId>13957</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1839</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Morrigan's javelin -->
+	<Ammunition>
+		<itemId>13879</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13880</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13881</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13882</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Corrupt Morrigan's javelin -->
+	<Ammunition>
+		<itemId>13953</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13954</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1837</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13955</itemId>
+		<startGraphicsId>1837</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1840</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>13956</itemId>
+		<startGraphicsId>1837</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">1840</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Bronze javelins -->
+	<Ammunition>
+		<itemId>825</itemId>
+		<startGraphicsId>206</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">200</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>831</itemId>
+		<startGraphicsId>206</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">200</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5642</itemId>
+		<startGraphicsId>206</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">200</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5648</itemId>
+		<startGraphicsId>206</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">200</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Iron javelins -->
+	<Ammunition>
+		<itemId>826</itemId>
+		<startGraphicsId>207</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">201</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>832</itemId>
+		<startGraphicsId>207</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">201</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5643</itemId>
+		<startGraphicsId>207</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">201</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5649</itemId>
+		<startGraphicsId>207</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">201</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Steel javelins -->
+	<Ammunition>
+		<itemId>827</itemId>
+		<startGraphicsId>208</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">202</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>833</itemId>
+		<startGraphicsId>208</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">202</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5644</itemId>
+		<startGraphicsId>208</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">202</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5650</itemId>
+		<startGraphicsId>208</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">202</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Mithril javelins -->
+	<Ammunition>
+		<itemId>828</itemId>
+		<startGraphicsId>209</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">203</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>834</itemId>
+		<startGraphicsId>209</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">203</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5645</itemId>
+		<startGraphicsId>209</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">203</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5651</itemId>
+		<startGraphicsId>209</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">203</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Adamant javelins -->
+	<Ammunition>
+		<itemId>829</itemId>
+		<startGraphicsId>210</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">204</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>835</itemId>
+		<startGraphicsId>210</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">204</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5646</itemId>
+		<startGraphicsId>210</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">204</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5652</itemId>
+		<startGraphicsId>210</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">204</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Rune javelins -->
+	<Ammunition>
+		<itemId>830</itemId>
+		<startGraphicsId>211</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">205</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>836</itemId>
+		<startGraphicsId>211</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">205</projectileId>
+		<poisonDamage>28</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5647</itemId>
+		<startGraphicsId>211</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">205</projectileId>
+		<poisonDamage>38</poisonDamage>
+	</Ammunition>
+	<Ammunition>
+		<itemId>5653</itemId>
+		<startGraphicsId>211</startGraphicsId>
+		<startGraphicsHeight>96</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="32" angle="15" base_speed="32">205</projectileId>
+		<poisonDamage>48</poisonDamage>
+	</Ammunition>
+<!-- Hand cannon shot -->
+	<Ammunition>
+		<itemId>15243</itemId>
+		<startGraphicsId>2138</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="31" type="45" angle="0" base_speed="46">2143</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Red chinchompa -->
+	<Ammunition>
+		<itemId>10034</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">909</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+<!-- Gray chinchompa -->
+	<Ammunition>
+		<itemId>10033</itemId>
+		<startGraphicsId>-1</startGraphicsId>
+		<startGraphicsHeight>0</startGraphicsHeight>
+		<darkBowGraphicsId>-1</darkBowGraphicsId>
+		<darkBowGraphicsHeight>0</darkBowGraphicsHeight>
+		<projectileId start_height="40" type="45" angle="5" base_speed="46">908</projectileId>
+		<poisonDamage>0</poisonDamage>
+	</Ammunition>
+</map>

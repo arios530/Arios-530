@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TutorialIslandPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/tutorial/TutorialIslandPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

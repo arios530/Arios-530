@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dungeon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/dungeon/SmokeDungeon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/dungeon/LumbridgeDungeon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/dungeon/AncientCavern.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/skill/slayer/dungeon/FremennikDungeon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

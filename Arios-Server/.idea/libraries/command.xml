@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="command">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/command/TeleportCommand.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/DeveloperCommandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/AIPCommandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/VisualCommand.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/AdminCommand.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/SystemCommand.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/PerkCommandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/ModeratorCommand.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/PlayerCommandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/command/BetaCommandPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="npc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/ThessaliaPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SpiritGraahkOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/RoavarDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/ShooAwayStrayDogPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/AlkharidHealPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/BurthorpeOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/ShipCharterNPCPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SpiritKyattOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/BobRepairItem.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/AlKahridLeafletPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/GliderPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/ShantayOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/NPCTradePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SawmillOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/ZaffPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SheepShearPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/BarcrawlPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/CustomsOfficerPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/CanafisWereWolfPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/TanningNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/RunescapeInstructorPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SanibochPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SorceressApprenticePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/NPCTalkPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/SeamanPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/RoavarOptionPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/HairCutPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/DoomsayerTogglePlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/interaction/npc/BurthorpeTrainNPC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

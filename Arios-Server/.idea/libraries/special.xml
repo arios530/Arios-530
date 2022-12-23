@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="special">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ChainhitSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/BackstabSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SeverSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SliceAndDiceSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/QuickSmashSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/PowerstabSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ImpaleSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/DescentOfDarknessSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SaradominsLightningHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/IceCleaveSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ShoveSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/RampageSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SeercullSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/CleaveSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SnapshotSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/EnergyDrainSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ShatterSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SnipeSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ExcaliburSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/PowershotSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/WarstrikeSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/ClobberSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/JudgementSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/HealingBladeSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/SweepSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/PunctureSpecialHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/combat/special/AncientMaceSpecialHandler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

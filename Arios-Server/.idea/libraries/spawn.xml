@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spawn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/spawn/SpawnTutorialDialogue.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/spawn/SpawnPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/spawn/SpawnLoginPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/spawn/SpawnCommandPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/spawn/SpawnZone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

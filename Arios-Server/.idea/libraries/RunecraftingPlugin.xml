@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RunecraftingPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/skill/runecrafting/RunecraftingPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

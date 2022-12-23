@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="god wars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/god wars/GodwarsEntranceHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/god wars/GodWarsMinionNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/god wars/GodWarsNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/god wars/GodwarsBossNPC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/god wars/GodwarsMapzone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

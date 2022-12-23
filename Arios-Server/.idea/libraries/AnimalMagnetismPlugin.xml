@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnimalMagnetismPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/animal_mag/AnimalMagnetismPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

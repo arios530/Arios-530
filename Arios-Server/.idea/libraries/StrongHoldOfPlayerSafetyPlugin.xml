@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StrongHoldOfPlayerSafetyPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/stronghold/StrongHoldOfPlayerSafetyPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

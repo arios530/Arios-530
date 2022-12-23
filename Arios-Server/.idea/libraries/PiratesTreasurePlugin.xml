@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PiratesTreasurePlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/quest/ptreasure/PiratesTreasurePlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

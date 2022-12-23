@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="warrior guild">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/DummyRoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/ShotPutRoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/BarrelRoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/WarriorsGuild.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/CatapultRoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/AnimationRoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugin/activity/warrior guild/CyclopesRoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
