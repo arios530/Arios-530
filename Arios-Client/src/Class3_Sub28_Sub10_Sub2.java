@@ -124,7 +124,7 @@ final class Class3_Sub28_Sub10_Sub2 extends Class3_Sub28_Sub10 {
                aClass94_4071 = (RSString)null;
             }
 
-            if(-3 >= ~var1) {
+            if(-3 >= ~var1 || Class73.resizableSD) {
                Class23.anInt454 = Class3_Sub9.anInt2334;
                Class140_Sub7.anInt2934 = Class70.anInt1047;
                Class84.anInt1164 = 0;
@@ -191,7 +191,11 @@ final class Class3_Sub28_Sub10_Sub2 extends Class3_Sub28_Sub10 {
                   if(-1 != ~var3) {
                      Class164_Sub1.aClass158_3009 = null;
                   } else {
-                     Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(503, 765, true, Class3_Sub28_Sub12.aCanvas3648);
+                     if (Class73.resizableSD) {
+                        Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(Class140_Sub7.anInt2934, Class3_Sub9.anInt2334, true, Class3_Sub28_Sub12.aCanvas3648);
+                     } else {
+                        Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(503, 765, true, Class3_Sub28_Sub12.aCanvas3648);
+                     }
                   }
 
                   Class64 var13 = Class38.aClass87_665.method1444(-43, Class126.aClient1671.getClass());
@@ -225,7 +229,11 @@ final class Class3_Sub28_Sub10_Sub2 extends Class3_Sub28_Sub10 {
                   Class3_Sub13.method165(-7878);
                } else if(0 == var1 && var3 > 0) {
                   Class17.aThread409.setPriority(1);
-                  Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(503, 765, true, Class3_Sub28_Sub12.aCanvas3648);
+                  if (Class73.resizableSD) {
+                     Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(Class140_Sub7.anInt2934, Class3_Sub9.anInt2334, true, Class3_Sub28_Sub12.aCanvas3648);
+                  } else {
+                     Class164_Sub1.aClass158_3009 = Class3_Sub13_Sub23_Sub1.method285(503, 765, true, Class3_Sub28_Sub12.aCanvas3648);
+                  }
                   Class140_Sub1_Sub2.method1938();
                   Class127_Sub1.method1756();
                   ((Class102)Class51.anInterface2_838).method1619(20, -1);

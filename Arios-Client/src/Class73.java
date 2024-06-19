@@ -368,9 +368,23 @@ final class Class73 implements Runnable {
       }
    }
 
+   static RSString USERESIZABLESD = Class3_Sub4.createRSString("::resizablesd");
+   static boolean resizableSD = false;
+
    static final void method1308(RSString var0, boolean var1) {
       //System.out.println("method1308 " + Thread.currentThread().getName());
       try {
+         if (var0.method1531(-120, USERESIZABLESD)) {
+            Class73.resizableSD = !Class73.resizableSD;
+            if(!Class73.resizableSD){
+               // Revert to fixed
+               Class140.method1862(true, 0, -8914, -1, -1);
+            } else {
+               // use resizable
+               Class140.method1862(true, 0, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
+            }
+         }
+
          if(var0.method1531(-120, Class58.aClass94_910)) {
             Class20.aBoolean438 = true;
             //System.out.println("fps on");

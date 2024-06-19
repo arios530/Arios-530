@@ -309,7 +309,7 @@ final class Class83 {
    static final int getScreenMode(int var0) {
       try {
          if(Class3_Sub13_Sub10.aFrame3121 == null) {
-            if(Class138.highDetail && Class3_Sub15.aBoolean2427) {
+            if((Class138.highDetail && Class3_Sub15.aBoolean2427) || Class73.resizableSD) {
                return 2;
             } else {
                if(var0 != 0) {
