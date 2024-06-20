@@ -84,6 +84,10 @@ abstract class Class140 {
             var6 = true;
          }
 
+         if (!Class73.resizableSD) {
+            var6 = false;
+         }
+
          Class3_Sub28_Sub10_Sub2.method598(var0, var1, var6, var5, false, var3, var4);
       } catch (RuntimeException var7) {
          throw Class44.method1067(var7, "th.EC(" + var0 + ',' + var1 + ',' + var2 + ',' + var3 + ',' + var4 + ')');

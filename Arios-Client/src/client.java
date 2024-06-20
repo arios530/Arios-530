@@ -22,9 +22,30 @@ public final class client extends Applet_Sub1 {
 	static int[] anIntArray2200;
 	public static boolean aBoolean2201;
 
+	public static void fullRedrawAllInterfaces() {
+		// Loop over all the possible interfaces
+		for (int i = 0; i < Class140.aClass11ArrayArray1834.length; i++) {
+			if (Class140.aClass11ArrayArray1834[i] == null) {
+				Canvas_Sub2.method57(i, 104);
+			}
+			if (Class140.aClass11ArrayArray1834[i] == null) {
+				continue;
+			}
+			for (int j = 0; j < Class140.aClass11ArrayArray1834[i].length; j++) {
+				if (Class140.aClass11ArrayArray1834[i][j] != null) {
+					Class20.method909(124, Class140.aClass11ArrayArray1834[i][j]);
+				}
+			}
+		}
+	}
 
 	final void method38(int var1) {
 		try {
+			if (Class73.resizableSD && !Class138.highDetail) {
+				Class3_Sub13_Sub10.aBoolean3116 = true;
+				client.fullRedrawAllInterfaces();
+			}
+
 			if(~Class143.anInt1875 != -1001) {
 				boolean var2 = NPC.method1988(false);
 				if(var2 && Class83.aBoolean1158 && WorldListEntry.aClass155_2627 != null) {
