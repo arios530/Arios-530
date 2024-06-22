@@ -367,15 +367,17 @@ final class Class73 implements Runnable {
          throw Class44.method1067(var5, "k.E(" + var1 + ',' + var2 + ',' + (var3 != null?"{...}":"null") + ')');
       }
    }
-
-   static RSString USERESIZABLESD = Class3_Sub4.createRSString("::resizablesd");
+   
    static boolean resizableSD = false;
+   static boolean toggleResizableSD = false;
 
    static final void method1308(RSString var0, boolean var1) {
       //System.out.println("method1308 " + Thread.currentThread().getName());
       try {
-         if (var0.method1531(-120, USERESIZABLESD)) {
+         if (var0.method1531(-120, Class3_Sub4.createRSString("::resizablesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizablesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizablesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::usersd")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::togglersd")) || var0.method1531(-120, Class3_Sub4.createRSString("::rsd"))) {
             Class73.resizableSD = !Class73.resizableSD;
+            Settings.resizableSD = Class73.resizableSD;
+            Settings.saveSettings();
             if(!Class73.resizableSD){
                // Revert to fixed
                Class140.method1862(true, 0, -8914, -1, -1);
@@ -383,6 +385,12 @@ final class Class73 implements Runnable {
                // use resizable
                Class140.method1862(true, 0, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
             }
+         }
+         
+         if (var0.method1531(-120, Class3_Sub4.createRSString("::resizablesdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizablesdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizablesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::usersdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizesdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizesdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::togglersdhdlogout")) || var0.method1531(-120, Class3_Sub4.createRSString("::resizablesdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizablesdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizablesd")) || var0.method1531(-120, Class3_Sub4.createRSString("::usersdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::useresizesdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::toggleresizesdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::togglersdlogouthd")) || var0.method1531(-120, Class3_Sub4.createRSString("::rsdhd"))) {
+            Settings.resizableSDLogoutHD = !Settings.resizableSDLogoutHD;
+            Settings.saveSettings();
+            Class3_Sub30_Sub1.sendMessage((RSString) null, 0, Class3_Sub4.createRSString("Your Resizable SD logout HD is now: " + (Settings.resizableSDLogoutHD ? "on" : "off")), -1);
          }
 
          if(var0.method1531(-120, Class58.aClass94_910)) {

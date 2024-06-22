@@ -313,6 +313,15 @@ final class Class167 {
          Class113.interfacePacketCounter = 0;
          Class3_Sub13_Sub2.method176(var0 + -161);
          Class3_Sub13_Sub11.method219(true, 3000);
+         if (Settings.resizableSD) {
+            if (Settings.resizableSDLogoutHD) {
+               Class73.resizableSD = false;
+               Class140.method1862(true, 2, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
+               System.out.println("Enabling HD logout on Resizable SD...");
+            } else {
+               Class140.method1862(true, 0, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
+            }
+        }
       } catch (RuntimeException var4) {
          throw Class44.method1067(var4, "wj.C(" + var0 + ')');
       }

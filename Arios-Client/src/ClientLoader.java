@@ -32,6 +32,10 @@ public class ClientLoader extends Applet
 
 	public ClientLoader(String wld) {
 		try {
+			Settings.initialize();
+			if (Settings.resizableSD) {
+				Class73.toggleResizableSD = true;
+			}
 			ClientLoader.world = wld;
 			this.frame = new JFrame("530 Client");
 			this.frame.setLayout(new BorderLayout());
