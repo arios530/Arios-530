@@ -490,7 +490,7 @@ public abstract class Applet_Sub1 extends Applet implements Runnable, FocusListe
                if (Class73.toggleResizableSD && Class143.anInt1875 == 30) {
                   Class73.resizableSD = true;
                   Class73.toggleResizableSD = false;
-                  System.out.println("Enabling resizable SD...");
+                  System.out.println("Enabling Resizable SD...");
                   Class140.method1862(true, 0, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
                }
             }
