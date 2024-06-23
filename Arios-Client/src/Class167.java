@@ -315,9 +315,11 @@ final class Class167 {
          Class3_Sub13_Sub11.method219(true, 3000);
          if (Settings.resizableSD) {
             if (Settings.resizableSDLogoutHD) {
+               System.out.println("Enabling HD logout on Resizable SD...");
                Class73.resizableSD = false;
                Class140.method1862(true, 2, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
-               System.out.println("Enabling HD logout on Resizable SD...");
+               Class73.resizableSD = true;
+               Class73.toggleResizableSD = true;
             } else {
                Class140.method1862(true, 0, -8914, Class3_Sub9.anInt2334, Class140_Sub7.anInt2934);
             }
